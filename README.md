@@ -19,14 +19,16 @@
 
 <h2>Setup Instructions</h2>
 <ol>
-<li> Clone the repository: </li>
+<li> <h3>Clone the repository: </h3> </li>
 
-git clone https://github.com/yourusername/Kween-Tarot-Bot.git
+git clone https://github.com...
 cd frontend
 
 <li> Install dependencies:</li>
 npm install
 
 <li> Run app:</li>
-npm start
+npm run dev
+
+<li> Go to http://localhost:3000 </li> 
 </ol>
