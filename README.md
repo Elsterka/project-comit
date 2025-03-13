@@ -2,7 +2,7 @@
 <p>This project is a tarot reading app where the user can shuffle tarot cards, choose a specific number, and receive the certain interpretation on the basis of the drawn cards. </p>
 
 <h2>Wireframe</h2>
-<img src="[../frontend/img/img/cups02.jpg](https://raw.githubusercontent.com/Elsterka/project-comit/refs/heads/main/Wireframe.png)" alt="Wireframe for Tarot reading app">
+<img src="https://raw.githubusercontent.com/Elsterka/project-comit/refs/heads/main/Wireframe.png" alt="Wireframe for Tarot reading app">
 <h2>Features</h2>
 <ul>
   <li>Card Deck Display: Visual representation of tarot cards.</li>
