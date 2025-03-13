@@ -22,14 +22,14 @@
 <li> <h3>Clone the repository: </h3> </li>
 
 git clone https://github.com/Elsterka/project-comit.git
-cd frontend
+<p> cd frontend </p>
 
 <li> <h3> Install dependencies:</h3> </li>
-npm install
+<p>npm install </p>
 
 <li> <h3> Run app: </h3> </li>
-npm run dev
+<p>npm run dev </p>
 
 <li> <h3> Go to :</h3> </li> 
-http://localhost:3000 
+<p>http://localhost:3000 </p>
 </ol>
