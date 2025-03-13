@@ -1,5 +1,10 @@
 <h1>Tarot reading app</h1>
 <p>This project is a tarot reading app where the user can shuffle tarot cards, choose a specific number, and receive the certain interpretation on the basis of the drawn cards. </p>
+
+<h2>Wireframe</h2>
+
+
+
 <h2>Features</h2>
 <ul>
   <li>Card Deck Display: Visual representation of tarot cards.</li>
