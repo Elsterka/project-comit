@@ -30,5 +30,6 @@ npm install
 <li> <h3> Run app: </h3> </li>
 npm run dev
 
-<li> <h3> Go to http://localhost:3000 </h3> </li> 
+<li> <h3> Go to :</h3> </li> 
+http://localhost:3000 
 </ol>
