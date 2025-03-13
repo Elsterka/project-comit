@@ -21,7 +21,7 @@
 <ol>
 <li> <h3>Clone the repository: </h3> </li>
 
-git clone https://github.com...
+git clone https://github.com/Elsterka/project-comit.git
 cd frontend
 
 <li> <h3> Install dependencies:</h3> </li>
