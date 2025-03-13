@@ -24,11 +24,11 @@
 git clone https://github.com...
 cd frontend
 
-<li> Install dependencies:</li>
+<li> <h3> Install dependencies:</h3> </li>
 npm install
 
-<li> Run app:</li>
+<li> <h3> Run app: </h3> </li>
 npm run dev
 
-<li> Go to http://localhost:3000 </li> 
+<li> <h3> Go to http://localhost:3000 </h3> </li> 
 </ol>
