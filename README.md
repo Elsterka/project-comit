@@ -16,3 +16,17 @@
 <li>Backend: Node.js  / Express </li>
 <li>Database: MongoDB </li>  
 </ul>
+
+<h2>Setup Instructions</h2>
+<ol>
+<li> Clone the repository: </li>
+
+git clone https://github.com/yourusername/Kween-Tarot-Bot.git
+cd frontend
+
+<li> Install dependencies:</li>
+npm install
+
+<li> Run app:</li>
+npm start
+</ol>
