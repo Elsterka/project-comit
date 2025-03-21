@@ -34,7 +34,7 @@
 
 <code>/tarot-reading-app
   /frontend
-  /backend (optional)
+  /backend
   /docs
   /tests
   README.md</code>
