@@ -25,20 +25,21 @@
   <ul>
 <li>Testing: Unit and integration tests for key functions.</li>
 <li>Deploy: Deploy frontend (Netlify) and backend (AWS) if applicable.</li>
-
+</ul>
  <h3>5: Launch & Maintenance</h3>
  <ul>
 <li>Launch: Promote the app and monitor user feedback.</li>
 <li>Updates: Bug fixing and add new features (e.g., more decks, user accounts).</li>
 </ul>
 
+<address>
 <p>/tarot-reading-app</p>
  <p> /frontend</p>
  <p> /backend (optional)</p>
  <p> /docs</p>
  <p> /tests</p>
 <p>  README.md</p>
-
+</address>
 <h2>Wireframe</h2>
 <img src="https://raw.githubusercontent.com/Elsterka/project-comit/refs/heads/main/Wireframe.png" alt="Wireframe for Tarot reading app">
 
