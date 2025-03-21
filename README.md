@@ -33,12 +33,12 @@
 </ul>
 
 <code>
-<p>/tarot-reading-app</p>
- <p> /frontend</p>
- <p> /backend (optional)</p>
- <p> /docs</p>
- <p> /tests</p>
-<p>  README.md</p>
+/tarot-reading-app
+  /frontend
+  /backend (optional)
+  /docs
+  /tests
+  README.md
 </code>
 <h2>Wireframe</h2>
 <img src="https://raw.githubusercontent.com/Elsterka/project-comit/refs/heads/main/Wireframe.png" alt="Wireframe for Tarot reading app">
