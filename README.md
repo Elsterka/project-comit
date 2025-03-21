@@ -32,14 +32,14 @@
 <li>Updates: Bug fixing and add new features (e.g., more decks, user accounts).</li>
 </ul>
 
-<address>
+<code>
 <p>/tarot-reading-app</p>
  <p> /frontend</p>
  <p> /backend (optional)</p>
  <p> /docs</p>
  <p> /tests</p>
 <p>  README.md</p>
-</address>
+</code>
 <h2>Wireframe</h2>
 <img src="https://raw.githubusercontent.com/Elsterka/project-comit/refs/heads/main/Wireframe.png" alt="Wireframe for Tarot reading app">
 
