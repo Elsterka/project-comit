@@ -1,38 +1,46 @@
-<h1>Tarot reading app</h1>
-<p>This project is a tarot reading app where the user can shuffle tarot cards, choose a specific number, and receive the certain interpretation on the basis of the drawn cards. </p>
+<h1>Chat app - Full Stack Real-Time Chat Application</h1>
+<p>This Chat app is a feature-rich full-stack chat application designed for real-time communication. It enables instant messaging between users and ensures secure handling of user data by storing all details in an **encrypted format** using **MongoDB** as the backend database. </p>
 
-<h2>Roadmap</h2>
+<h2>🛣️ Chat App Development Roadmap (MERN)</h2>
 
-<h3>1: Planning & Setup</h3>
+<h3>📍 **Phase 1: Project Setup**</h3>
 <ul>
-  <li>Define Features: Card deck selection, drawing cards, tarot spreads, and card interpretations.</li>
-<li>Choose Tech Stack: Frontend (React), Backend (Express.js / Node.js), Database (MongoDB).</li>
-<li>Set Up GitHub: Initialize repo and plan branching strategy.</li>
+  <li>Set up project structure (client + server folders)</li>
+<li>Initialize `npm` in both backend and frontend</li>
+<li>Install essential packages</li>
+<li>Backend: `express`, `mongoose`, `dotenv`, `cors`, `bcryptjs`, `jsonwebtoken`, `socket.io`</li>
+<li>Frontend: `react`, `axios`, `react-router-dom`, `socket.io-client`</li>
  </ul>
  
-  <h3>2: UI & Functionality</h3>
+  <h3>📍 **Phase 2: Backend Development (Node.js + Express.js)**</h3>
 <ul>
-  <li>Frontend Development: Create intuitive UI (mobile-first), card drawing interface, and spread layouts.</li>
-<li>Backend: Set up API for card meanings and store past readings.</li>
+  <li>Create Express server (`server.js`)</li>
+<li>Connect MongoDB using `mongoose`</li>
+<li>Define Mongoose schemas:</li>
+<li>  User model, Chat model, Message model</li>
 </ul>
- <h3>3: Core Features</h3>
+
+ <h3> 📍 **Phase 3: Advanced Features </h3>
  <ul>
-<li>Card Shuffling & Drawing: Implement shuffling logic and random card drawing.</li>
-<li>Display Tarot Spreads: Show card spreads with meanings and interpretations.</li>
-<li>Past Readings: Optionally store and display past readings.</li>
+<li>Real-time messaging</li>
+<li>Notifications</li>
+<li>Authentication && Authorization with JWT</li>
+<li>Global state management with Zustand</li>
+<li>Online user status</li>
 </ul>
-  <h3>4: Testing & Deployment</h3>
+  <h3>📍 **Phase 3: Testing & Deployment</h3>
+
   <ul>
 <li>Testing: Unit and integration tests for key functions.</li>
 <li>Deploy: Deploy frontend (Netlify) and backend (AWS) if applicable.</li>
 </ul>
- <h3>5: Launch & Maintenance</h3>
+ <h3>📍 **Phase 5: Launch & Maintenance</h3>
  <ul>
 <li>Launch: Promote the app and monitor user feedback.</li>
-<li>Updates: Bug fixing and add new features (e.g., more decks, user accounts).</li>
+<li>Updates: Bug fixing and add new features </li>
 </ul>
 
-<code>/tarot-reading-app
+<code>/chat-app
   /frontend
   /backend
   /docs
@@ -44,10 +52,9 @@
 
 <h2>Features</h2>
 <ul>
-  <li>Card Deck Display: Visual representation of tarot cards.</li>
-<li>Card Shuffling: Randomize the order of the tarot cards. </li>
-<li>Card Draw: Users can select how many cards to draw. </li>
-<li>Card Interpretation: User can read meaning of the cards. </li>
+  <li>Chat: Visual representation of messages.</li>
+<li>Search of users. </li>
+<li>Real-time messaging </li>
   </ul>
 
   
@@ -68,9 +75,12 @@ git clone https://github.com/Elsterka/project-comit.git
 <li> <h3> Install dependencies:</h3> </li>
 <p>npm install </p>
 
-<li> <h3> Run app: </h3> </li>
-<p>npm run dev </p>
+<li> <h3> Build the app: </h3> </li>
+<p>npm run build </p>
+
+<li> <h3> Run the app: </h3> </li>
+<p>npm start </p>
 
 <li> <h3> Go to :</h3> </li> 
-<p>http://localhost:3000 </p>
+<p>http://localhost:5000 </p>
 </ol>
