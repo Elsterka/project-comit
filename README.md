@@ -48,7 +48,7 @@
   README.md</code>
 
 <h2>Wireframe</h2>
-<img src="[https://raw.githubusercontent.com/Elsterka/project-comit/refs/heads/main/Wireframe.png](https://raw.githubusercontent.com/Elsterka/project-comit/refs/heads/main/chat%20wireframe.png)" alt="Wireframe for Tarot reading app">
+<img src="https://raw.githubusercontent.com/Elsterka/project-comit/refs/heads/main/chat%20wireframe.png" alt="Wireframe for Chat app">
 
 <h2>Features</h2>
 <ul>
