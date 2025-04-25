@@ -69,12 +69,10 @@
 
 git clone https://github.com/Elsterka/project-comit.git
 
-<li> <h3> Setup .env file:</h3> </li>
-<p>
-PORT=...
-MONGO_DB_URI=...
-JWT_SECRET=...
-NODE_ENV=... </p>
+<li> <h3> Install dependencies:</h3> </li>
+<p> cd frontend </p>
+
+<p>npm install </p>
 
 <li> <h3> Build the app: </h3> </li>
 <p>npm run build </p>
