@@ -40,11 +40,9 @@
 <li>Updates: Bug fixing and add new features </li>
 </ul>
 
-<code>/chat-app
+<code>/chat_app
   /frontend
   /backend
-  /docs
-  /tests
   README.md</code>
 
 <h2>Wireframe</h2>
@@ -70,10 +68,13 @@
 <li> <h3>Clone the repository: </h3> </li>
 
 git clone https://github.com/Elsterka/project-comit.git
-<p> cd frontend </p>
 
-<li> <h3> Install dependencies:</h3> </li>
-<p>npm install </p>
+<li> <h3> Setup .env file:</h3> </li>
+<p>
+PORT=...
+MONGO_DB_URI=...
+JWT_SECRET=...
+NODE_ENV=... </p>
 
 <li> <h3> Build the app: </h3> </li>
 <p>npm run build </p>
